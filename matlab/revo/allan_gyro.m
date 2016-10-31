@@ -12,3 +12,4 @@ tau = 1/data.rate * round(logspace(0,7,200))
 % data.rate = 1/mean(diff(data.time))
 % tau = 1/data.rate * round(logspace(0,7,200))
 % [retval, s, errorb, tau] = allan(data,tau,'gyro')
+%test
